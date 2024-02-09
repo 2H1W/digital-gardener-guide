@@ -13,7 +13,7 @@ Catalan architecture is sober, intense, expressed and structured using climate c
  [🔗](https://read.readwise.io/read/01hb2y78118myvn0c94f5egfbw)
 
 ---
-**The place** where the RCR architects live and work is Olot. The town is surrounded by extinct volcanoes, forming a substrate that has created a special [[微氣候\|microclimate]] with plant species that are unique to the Iberian Peninsula.
+**The place** where the RCR architects live and work is Olot. The town is surrounded by extinct volcanoes, forming a substrate that has created a special [[Area/微氣候\|microclimate]] with plant species that are unique to the Iberian Peninsula.
 
  [🔗](https://read.readwise.io/read/01hb2ygpaak4h621faw8jt77fd)
 
