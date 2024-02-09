@@ -10,7 +10,7 @@ Student workshop, part of the BC ecosystem of teaching and research
 
 ---
 ![](https://cdn.ca.emap.com/wp-content/uploads/sites/12/2020/02/osloarchitecturetriennalebcarchitectsmaterialsstudiesarchitecturalreview_660_356384622.jpg)
-Workshop at BC Materials to make objects in rammed earth for the Oslo Architecture Triennale 2019
+Workshop at BC Materials to make objects in [[Area/夯土\|rammed earth]]  for the Oslo Architecture Triennale 2019
 
  [🔗](https://read.readwise.io/read/01hbqchqb6rdb0yprth6drqpp3)
 
@@ -37,7 +37,7 @@ The culture of construction of the place encouraged us to adopt and adapt vernac
 ---
 perceived.
 ![](https://cdn.ca.emap.com/wp-content/uploads/sites/12/2020/02/bcarchitectsrammedearthworkshoparchitecturalreview04_660_359817741.jpg)
-BC Materials’ centre of operations in Brussels, where it stocks and processes excavation earths from construction sites
+BC Materials’ centre of operations in Brussels, where it stocks and processes excavation [[Area/土壤\|earths]]  from construction sites
 
  [🔗](https://read.readwise.io/read/01hbqctfh57jkntm1rpcs0rvq7)
 
@@ -47,12 +47,12 @@ A ‘contemporary vernacular’ arises from this tension between an architectura
  [🔗](https://read.readwise.io/read/01hbqcw6f5361rp0v8hmx2rr4s)
 
 ---
-Different excavation earths from different geological layers and sites are mixed in recipes which require a level of local craftsmanship
+Different excavation [[Area/土壤\|earths]]  from different geological layers and sites are mixed in recipes which require a level of local craftsmanship
 
  [🔗](https://read.readwise.io/read/01hbqd1e5h6vxsx9gcdakm0qbg)
 
 ---
-BC perform acts of building, at once action and narrative. It is a performance within the complex and costly effort of generating infrastructure, running across classes and skill sets, across materials and technologies
+BC perform acts of building, at once action and narrative. It is a performance within the complex and costly effort of generating [[Area/基礎設施\|Infrastructure]] , running across classes and skill sets, across materials and technologies
 
  [🔗](https://read.readwise.io/read/01hbqd3drxsf3afe6t01ab7vbg)
 
